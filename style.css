@@ -1,0 +1,24 @@
+/* Pour pc */
+
+body {
+    display : flex;
+    justify-content: center;
+    background-color: #e0e0e0;
+}
+
+.bloc {
+    width: 30%;
+    height: 30%;
+    margin : auto;
+    margin-top: 35vh;
+    border-radius : 20px;
+    box-shadow : 10px 10px 15px #bebebe,  -10px -10px 20px #ffffff;
+    display : flex;
+    flex-direction : column;
+    justify-content: center;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+}
